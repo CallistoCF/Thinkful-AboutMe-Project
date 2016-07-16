@@ -1,0 +1,59 @@
+title {
+  text-align: center;
+  
+}
+
+img{
+	float: right;
+}
+
+h1 {
+	font-size: 32px;
+    text-align: left;    
+    font-style: bold;
+   
+
+}
+ul.list {
+	width: 100%;
+	display: table;
+  	text-align: center;
+
+  	
+}
+
+ul.list > li{
+	display: table-cell;
+	font-style: bold;
+}
+
+h2{
+	font-size: 24px;
+	font-style: bold;
+	text-align: center;
+	text-decoration: underline;
+	border: 5px solid powderblue;
+  	padding: 5px;
+}
+
+h3{
+	font-size: 18px;
+	font-style: bold;
+	text-align: left;
+	
+}
+
+section {
+	font-size: 14px;
+	text-align: left;
+	}
+
+#Contact {
+	text-align: left;
+	text-indent: 0px;
+}
+
+p{
+	text-indent: 40px;
+	margin: 30 px;
+}
